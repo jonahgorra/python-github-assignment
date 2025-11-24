@@ -4,7 +4,7 @@ This Python program estimates your weekly study hours based on how many hours yo
 ## How to Run
 Run the program using:
 python app.py
-or:
+or
 python3 app.py
 
 ## Example Output (Studying 12 Hours per Week)
