@@ -1,3 +1,7 @@
+# Simple Study Time Tracker Program
+# This program asks for daily study hours, estimates weekly hours,
+# and prevents crashes with error handling.
+
 print("Welcome to my Python program!")
 hours_input = input("How many hours did you study today? ")
 daily_hours = float(hours_input)
